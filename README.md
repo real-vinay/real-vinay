@@ -6,7 +6,7 @@ Building innovative web applications with a touch of data science magic
 
 Web developer & AI/data scientist passionate about combining coding, data analysis, and problem-solving. Experienced in building scalable web apps and exploring AI/machine learning. Always up for a new project or collaboration
 
-* 🌍  I'm based in Nanded
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [vinayakkadam1702@gmail.com](mailto:vinayakkadam1702@gmail.com)
 * 🧠  I'm learning MERN and Generative AI
 * 🤝  I'm open to collaborating on web development (MERN stack)
